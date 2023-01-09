@@ -2,6 +2,4 @@ Hello
 
 how are you?
 
-added new line
-
 second line modification
